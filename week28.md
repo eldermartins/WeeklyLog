@@ -4,6 +4,7 @@
 ### Project Ideas
 * Party calculator for "Le Fabule" project
 * Weather web-app to learn Python
+* Collaborative map of organic food vendors in Sao Paulo
 
 ### Quotes
 
