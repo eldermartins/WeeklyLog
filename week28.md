@@ -10,6 +10,9 @@
 ### Listened
 * Philosophy Bites Podcast: [Kieran Setiya on the Midlife Crisis] (http://philosophybites.com/2016/07/kieran-setiya-on-the-midlife-crisis.html)
 
+### Learned
+* How to set up a static website using HarpJS and serve it throug Surge :heart:
+
 ### Fav :star:
 * [Carreira Front End](https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md) : very good article for beginners
 * [Do zero à Heroi Front-end](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1) : useful study path
