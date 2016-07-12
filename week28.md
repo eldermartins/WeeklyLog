@@ -7,6 +7,9 @@
 * Collaborative map of organic food vendors in Sao Paulo
 * Bot that warns when tickets for DevBeers are available (like @rafaelrinaldi [BrooklynJS](https://github.com/rafaelrinaldi/brooklynjs))
 
+### Listened
+* Philosophy Bites Podcast: [Kieran Setiya on the Midlife Crisis] (http://philosophybites.com/2016/07/kieran-setiya-on-the-midlife-crisis.html)
+
 ### Fav :star:
 * [Carreira Front End](https://github.com/woliveiras/front-end-career/blob/master/translations/pt-br/README.md) : very good article for beginners
 * [Do zero à Heroi Front-end](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1) : useful study path
